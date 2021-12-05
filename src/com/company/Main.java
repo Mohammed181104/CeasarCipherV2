@@ -75,6 +75,7 @@ public class Main {
         if (answer.equalsIgnoreCase("no")){
             bruteForce(cypherChar);
         }
+        System.out.println("Hello World");
 
     }
 
